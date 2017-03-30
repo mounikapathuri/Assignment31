@@ -1,0 +1,17 @@
+package mouni;
+
+public class Assignment31 {
+
+	
+				int x;  int y;
+				String name;
+				public static void main(String args[]) {
+				Assignment31 pnt = new Assignment31();
+				System.out.println ("pnt is " + pnt.name + " " + pnt.x + " " + pnt.y);
+				} 
+				}
+
+
+	
+
+
